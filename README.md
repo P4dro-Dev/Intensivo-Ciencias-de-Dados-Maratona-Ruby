@@ -1,6 +1,6 @@
 ## 📊| Desafio de Ciência de Dados em Ruby  
 Descrição 
-Este repositório contém 16 questões de Ciência de Dados, desenvolvidas em Ruby. Cada questão aborda conceitos fundamentais e avançados da área, proporcionando uma excelente oportunidade para praticar e aprimorar suas habilidades em Ciência de Dados. 🚀   
+Este repositório contém 16 questões de Ciência de Dados, desenvolvidas em Ruby. Cada questão aborda conceitos fundamentais e avançados da área, proporcionando uma excelente oportunidade para praticar e aprimorar suas habilidades em Ciência de Dados. 🚀    
 
 ## Funcionalidades 
 1. Calcular a Média de uma Lista de Números
